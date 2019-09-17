@@ -1,8 +1,8 @@
 # miR21 Project
 
-This repository contains all R files used to generate the figures for the manuscript “Glioma reprograms microglial cells through extracellular transfer of miR-21” by Erik R Abels, Sybren L.N. Maas, Zhiyun Wei, Pike See Cheah, Eric Tai, Christy-Joy Kolsteeg, Sophie Dusoswa, David T. Ting, Joseph El Khoury, Anna M. Krichevsky, Marike L.D. Broekman, Xandra O. Breakefield.
+This repository contains all R files used to generate the figures for the manuscript “Glioblastoma-Associated Microglia Reprogramming Is Mediated by Functional Transfer of Extracellular miR-21” by Erik R Abels, Sybren L.N. Maas, Zhiyun Wei, Pike See Cheah, Eric Tai, Christy-Joy Kolsteeg, Sophie Dusoswa, David T. Ting, Joseph El Khoury, Anna M. Krichevsky, Marike L.D. Broekman, Xandra O. Breakefield.
 
-This manuscript has not yet been published. Once published a link to the publication will be added to this file.
+This manuscript was published on September 17th 2019 in <a href="https://www.cell.com/cell-reports/fulltext/S2211-1247(19)31076-9" target="_blank">Cell Reports</a>. 
 
 Using these scripts for other scientific projects is encouraged. However, if these scripts help the generation of a new manuscript please cite the publication listed above.
 
@@ -25,4 +25,4 @@ install.packages("limma")
 
 ### Input Data 
 
-The input data to run the scripts will be added when the manuscript is published online. Please also refer to the GEO repositories listed in the manuscript.
+The input data to run the scripts can be obtained from the authors by contacting the corresponding author.
